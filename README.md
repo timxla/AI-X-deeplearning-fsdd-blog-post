@@ -1,4 +1,4 @@
-###Blog post final for AI+X Deeplearning course
+### Blog post final for AI+X Deeplearning course
 
 ![Screenshot](docs/blog.png)
 
