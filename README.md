@@ -1,4 +1,6 @@
-Blog post final for AI+X Deeplearning course
+***Blog post final for AI+X Deeplearning course
+
+![Screenshot](docs/blog.png)
 
 Blog post here: https://medium.com/@timlee765/speech-recognition-with-fsdd-55d1904e4072 (Korean)
 
